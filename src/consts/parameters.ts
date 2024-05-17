@@ -13,7 +13,7 @@ export const contractConst = "0xf3dd293cB18BF174e7A3A50514B41326e858A943";
 // Please ensure that you define the correct domain for your API key from the API settings page.
 // You can get one for free at https://thirdweb.com/create-api-key
 // Learn more here: https://blog.thirdweb.com/changelog/api-keys-to-access-thirdweb-infra
-export const clientIdConst = process.env.NEXT_PUBLIC_CLIENTID
+export const clientIdConst = process.env.NEXT_PUBLIC_CLIENTID || "";
 // Configure the primary color for buttons and other UI elements
 export const primaryColorConst = "blue";
 
