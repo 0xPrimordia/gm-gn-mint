@@ -3,6 +3,7 @@
 
 # ERC721 Drop Claim Page
 
+```npm install || npm run dev```
 
 
 
